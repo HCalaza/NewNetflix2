@@ -1,0 +1,18 @@
+/*
+ * SearchBar css File
+*/
+/* .inputText {
+  background-color: crimson;
+} */
+.SearchField {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.inputText {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
